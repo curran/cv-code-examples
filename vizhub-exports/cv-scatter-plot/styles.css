@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+svg {
+  position: absolute;
+}
+
+circle {
+  transition:
+    r 0.2s ease,
+    stroke 0.2s ease;
+}
+
+.axis-label {
+  text-anchor: middle;
+  font-family: sans-serif;
+  font-size: 20px;
+  fill: black;
+}
