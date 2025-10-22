@@ -12,3 +12,5 @@ Code examples for Constructing Visualizations
 Async
 
  * [CV: Responsive Clickable Circles](https://vizhub.com/curran/f29e4b974b4748a494398f2ea64a09ce)
+
+[Episode 2 Livestream](https://www.youtube.com/watch?v=wtlqJSqxmjA)
