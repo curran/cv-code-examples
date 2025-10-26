@@ -19,6 +19,8 @@ const vizList = [
   'https://vizhub.com/curran/cv-loading-csv-data',
   'https://vizhub.com/curran/cv-scatter-plot',
   'https://vizhub.com/curran/cv-line-chart',
+  'https://vizhub.com/curran/cv-bar-chart',
+  'https://vizhub.com/curran/cv-stacked-bar-chart'
 
 ];
 
